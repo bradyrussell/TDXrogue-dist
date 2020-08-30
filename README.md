@@ -9,4 +9,8 @@
 ```sh
 java.exe -jar "C:\path\to\TDXrogue\TDXrogue.jar" <YOUR AUTHORIZATION KEY>
 ```
-
+  - If you already had a Java version installed it is easiest to just navigate to the new Java 14 install location like so
+```sh
+cd "C:\Program Files\AdoptOpenJDK\jre-14.0.2.12-hotspot\bin"
+.\java.exe -jar "C:\path\to\TDXrogue\TDXrogue.jar" <YOUR AUTHORIZATION KEY>
+```
