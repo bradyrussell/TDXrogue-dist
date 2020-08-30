@@ -1,5 +1,5 @@
 # TDXrogue ITS Text Based Adventure
-
+![Image of TDXrogue](https://github.com/bradyrussell/TDXrogue-dist/raw/master/tdxrogue.png)
 
 # How to run
   - Download from here: https://github.com/bradyrussell/TDXrogue-dist/raw/master/TDXrogue.jar
