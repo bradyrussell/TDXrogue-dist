@@ -1,0 +1,12 @@
+# TDXrogue ITS Text Based Adventure
+
+
+# How to run
+
+  - Requires Java 14: https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.2%2B12/OpenJDK14U-jre_x64_windows_hotspot_14.0.2_12.msi
+  - Requires an authorization key from: https://help.uillinois.edu/TDWebApi/api/auth/loginsso
+  - Run like so: 
+```sh
+java.exe -jar "C:\path\to\TDXrogue\TDXrogue.jar" <YOUR AUTHORIZATION KEY>
+```
+
